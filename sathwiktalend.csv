@@ -1,0 +1,4 @@
+CustomerID;Name;Region;Product;Qty;UnitPrice;ModifiedDate;TotalPrice
+C001;Alice;East;Pen;10;1.5;17-07-0006;15.0
+C002;Bob;West;Pencil;5;1.0;17-07-0006;5.0
+C001;Alice;North;Pen;15;1.5;15-10-0006;22.5
